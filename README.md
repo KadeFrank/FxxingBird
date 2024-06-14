@@ -1,7 +1,7 @@
 # FxxingBird
 
 This game is free to play.
-U can find the desidner here: https://space.bilibili.com/18228906
+U can find the designer here: https://space.bilibili.com/18228906
 
 And here: https://youtu.be/MM67I2K4jGA
 
